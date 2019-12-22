@@ -1,1 +1,1 @@
-hello Sugar Labs
+Hello Sugar Labs
